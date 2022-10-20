@@ -1,6 +1,4 @@
 # usecase-diagram 
-
-<h1 align="center">usecase diagram</h1> 
 <h2 align="center">Бекбаев Алишер, студент группы ИВ1-21</h2>
 <p align="center"><b>Инструкция по открытию Use Case диаграмм </b></p>
 <ol>
