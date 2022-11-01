@@ -1,5 +1,5 @@
 # usecase-diagram 
-<p align="center" style="color:black"><b>Инструкция по открытию Use Case диаграмм </b></p>
+<p align="center"><b style="color:black">Инструкция по открытию Use Case диаграмм </b></p>
 <ol>
   <li> Выбрать ветку в репозитории </li>
   <li> Нажать на диаграмму </li>
