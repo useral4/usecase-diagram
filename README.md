@@ -1,4 +1,4 @@
-<center># usecase-diagram</center>
+# usecase-diagram
 <p align="center"><b>Инструкция по открытию Use Case диаграмм </b></p>
 <ol>
   <li> Выбрать ветку в репозитории </li>
