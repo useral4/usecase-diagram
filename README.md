@@ -1,6 +1,5 @@
 # usecase-diagram
 <html>
-  DOCTYPE=UTF8
   <head>
     
 <i><p align="center"><b>Инструкция по открытию <i>Use Case диаграмм</i> </b></p></i>
