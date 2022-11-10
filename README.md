@@ -1,7 +1,6 @@
 # usecase-diagram
 <html>
   <head>
-    
 <i><p align="center"><b>Инструкция по открытию <i>Use Case диаграмм</i> </b></p></i>
   </head>
   <body>
@@ -20,5 +19,16 @@
 <hr>
 <h2 align="center"><i>Бекбаев Алишер, студент группы ИВ1-21</i></h2>
 <hr>
+    
+    <style>
+p {
+font-size: 16px;
+transition: 1s;
+}
+p:hover {
+transform: scale(1.05)
+
+}
+</style>
   </body>
   </html>
