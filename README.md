@@ -1,9 +1,5 @@
 # usecase-diagram
-<html>
-  <head>
 <i><p align="center"><b>Инструкция по открытию <i>Use Case диаграмм</i> </b></p></i>
-  </head>
-  <body>
     <ol>
   <li> Выбрать ветку в репозитории </li>
   <li> Нажать на диаграмму </li>
@@ -19,5 +15,3 @@
 <hr>
 <h2 align="center"><i>Бекбаев Алишер, студент группы ИВ1-21</i></h2>
 <hr>
-  </body>
-  </html>
