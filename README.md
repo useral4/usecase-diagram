@@ -1,7 +1,7 @@
 # usecase-diagram
 <html>
   <head>
-<i><p align="center" font-size: 28px"><b>Инструкция по открытию <i>Use Case диаграмм</i> </b></p></i>
+<i><p align="center"><b>Инструкция по открытию <i>Use Case диаграмм</i> </b></p></i>
   </head>
   <body>
     <ol>
